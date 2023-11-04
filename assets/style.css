@@ -27,14 +27,30 @@ header {
     box-shadow: 0 2px 2px #000;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+}
+
+
 h1 {
     font-family: 'Montserrat', sans-serif;
+    color: #000;
+    letter-spacing: 2px;
 }
+
+
 
 main {
     background-color: blueviolet;
     flex: 1 0 auto;
     font-family: 'PT Sans', sans-serif;
+    margin-top: 101px;
 }
 
 footer {
