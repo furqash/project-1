@@ -62,6 +62,12 @@ main {
     list-style-type: none;
 }
 
+#socials i {
+    font-size: 160%;
+    padding: 5%;
+    color: #000;
+}
+
 footer {
     background-color: #ffffff;
 }
