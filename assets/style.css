@@ -5,6 +5,13 @@
     box-sizing: border-box;
 }
 
+/* general styling for the body of the html*/
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #000;
+}
 
 
 header {
@@ -13,6 +20,7 @@ header {
 
 main {
     background-color: blueviolet;
+    flex: 1 0 auto;
 }
 
 footer {
