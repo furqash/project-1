@@ -47,12 +47,18 @@ h1 {
 
 
 main {
-    background-color: blueviolet;
+    
     flex: 1 0 auto;
     font-family: 'PT Sans', sans-serif;
     margin-top: 101px;
 }
 
+/*first picture styles here*/
+#pic1{
+    height:600px;
+    width: 100%;
+    background-color: lightblue;
+}
 
 #socials {
     text-align: center;
