@@ -1,3 +1,7 @@
+/* gogole fonts importing on to stylesheet*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
 /*setting my wildcard selector eith an asterisk*/
 * {
     padding: 0;
@@ -18,9 +22,14 @@ header {
     background-color: aqua;
 }
 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 main {
     background-color: blueviolet;
     flex: 1 0 auto;
+    font-family: 'PT Sans', sans-serif;
 }
 
 footer {
