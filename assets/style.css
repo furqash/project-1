@@ -55,9 +55,9 @@ main {
 
 /*first picture styles here*/
 #pic1{
-    height:600px;
+    height:550px;
     width: 100%;
-    background-color: lightblue;
+    background: url("/assets/images/unnamed.png") no-repeat center center;
 }
 
 #socials {
